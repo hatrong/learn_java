@@ -1,2 +1,1 @@
-# learn_java
-My Java code everyday 
+#Java for better
